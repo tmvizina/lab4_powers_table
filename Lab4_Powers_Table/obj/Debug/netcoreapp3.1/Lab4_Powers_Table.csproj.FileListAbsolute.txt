@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.exe
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.deps.json
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.runtimeconfig.json
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.dll
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.pdb
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.dll
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.pdb
+C:\Users\tmviz\source\repos\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.genruntimeconfig.cache
