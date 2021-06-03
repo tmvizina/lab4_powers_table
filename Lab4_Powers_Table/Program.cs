@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Lab4_Powers_Table
-{
+{//New comment to have a conflict with merging 
     
     class Program
     {
