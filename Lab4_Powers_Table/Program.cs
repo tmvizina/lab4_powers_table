@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Lab4_Powers_Table
-{//This comment is a damn change
+{
     
     class Program
     {
